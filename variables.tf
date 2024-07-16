@@ -1,3 +1,3 @@
 variable "mybucketName" {
-  default = "my-terraform-project"
+  default = "my-terraform-project-94220"
 }
